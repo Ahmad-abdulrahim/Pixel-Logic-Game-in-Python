@@ -1,0 +1,4 @@
+Pixel Logic Game
+
+Welcome to the world of Pixel Logic, a captivating puzzle game developed in Python with the Tkinter library. Pixel Logic challenges players to uncover hidden pixel art images through strategic logic and deduction. By combining elements of traditional nonograms and modern puzzle-solving mechanics, Pixel Logic offers a unique and immersive gaming experience. Players navigate through a grid-based interface, using clues provided along the rows and columns to determine which pixels should be filled and which should remain empty. The game features intuitive controls and a sleek user interface designed for seamless gameplay. With a diverse range of puzzles spanning various difficulty levels and themes, Pixel Logic promises endless hours of entertainment and mental stimulation. Get ready to sharpen your logic skills and embark on a pixelated adventure like no other!
+
